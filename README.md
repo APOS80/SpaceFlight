@@ -1,9 +1,11 @@
 # SpaceFlight
 Flying through space with Pict3D
 
-
-up/down/left/right -> mouse
+Mouse:
+up/down -> Pitch
+left/right -> Roll
+Keys:
 W -> forward
 S -> backword
-A -> Roll left
-D -> Roll right
+A -> Yaw left
+D -> Yaw right
