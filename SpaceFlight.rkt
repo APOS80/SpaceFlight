@@ -170,4 +170,4 @@
                                       #:angle (item-roll camOne) #:up -y )))          
   ))
  
-(big-bang3d 0  #:on-mouse on-mouse #:on-key on-key #:on-draw on-draw)
+(big-bang3d 0  #:width 500 #:height 500 #:on-mouse on-mouse #:on-key on-key #:on-draw on-draw)
